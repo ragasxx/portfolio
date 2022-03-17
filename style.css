@@ -475,6 +475,17 @@ textarea {
   margin-top: 40px;
 }
 
+#btn-cv {
+  width: 12%;
+  height: 6%;
+  border: 2px solid white;
+}
+#btn-cv a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
 /* media queries */
 
 @media screen and (max-width: 600px) {
